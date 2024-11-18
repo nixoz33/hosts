@@ -24,3 +24,4 @@ while IFS= read -r line; do
     # Verifică asocierea folosind funcția shell
     verifica_ip_host $host $ip "8.8.8.8"  # Exemplu de server DNS (Google DNS)
 done < /etc/hosts
+Numele studentului A este: AlexFolea22
